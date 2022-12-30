@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DIR.ModVersion>Installed mod-version: {0}</DIR.ModVersion>
+  <DIR.DefaultRadiusUnlimited>Default ingredient radius: Unlimited</DIR.DefaultRadiusUnlimited>
+  <DIR.DefaultRadius>Default ingredient radius: {0}</DIR.DefaultRadius>
+  <DIR.DefaultRadiusTT>Will set this radius as default for all new bills created. Will not affect existing bills.</DIR.DefaultRadiusTT>
+</LanguageData>
